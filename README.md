@@ -1,2 +1,2 @@
 # Perfect25
-# Első Github bejegyzés, első commit
+# Első Github , első commit
